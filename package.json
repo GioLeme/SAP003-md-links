@@ -1,0 +1,21 @@
+{
+  "name": "md-links",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "md-links": "cli.js"
+  },
+  "description": "",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "jest": "^24.9.0"
+  }
+}
